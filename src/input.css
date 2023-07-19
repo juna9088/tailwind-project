@@ -29,6 +29,6 @@ body {
     @apply -rotate-45;
 }
 
-#dark-toggle:checked ~ lable div.toggel-circle {
+#dark-toggle:checked ~ label div.toggel-circle {
     @apply translate-x-3;
 }
